@@ -1,0 +1,62 @@
+[
+    {
+        "imgTitle": "Imagem 1",
+        "src": "./midia/imgs/galeria/art1.jpg"
+    },
+    {
+        "imgTitle": "Imagem 2",
+        "src": "./midia/imgs/galeria/art2.jpg"
+    },
+    {
+        "imgTitle": "Imagem 3",
+        "src": "./midia/imgs/galeria/art3.jpg"
+    },
+    {
+        "imgTitle": "Imagem 4",
+        "src": "./midia/imgs/galeria/art4.jpg"
+    },
+    {
+        "imgTitle": "Imagem 5",
+        "src": "./midia/imgs/galeria/art5.jpg"
+    },
+    {
+        "imgTitle": "Imagem 6",
+        "src": "./midia/imgs/galeria/art6.jpg"
+    },
+    {
+        "imgTitle": "Imagem 7",
+        "src": "./midia/imgs/galeria/art7.jpg"
+    },
+    {
+        "imgTitle": "Imagem 8",
+        "src": "./midia/imgs/galeria/art8.jpg"
+    },
+    {
+        "imgTitle": "Imagem 9",
+        "src": "./midia/imgs/galeria/art9.jpg"
+    },
+    {
+        "imgTitle": "Imagem 10",
+        "src": "./midia/imgs/galeria/art10.jpg"
+    },
+    {
+        "imgTitle": "Imagem 11",
+        "src": "./midia/imgs/galeria/art11.jpg"
+    },
+    {
+        "imgTitle": "Imagem 12",
+        "src": "./midia/imgs/galeria/art12.jpg"
+    },
+    {
+        "imgTitle": "Imagem 13",
+        "src": "./midia/imgs/galeria/art13.jpg"
+    },
+    {
+        "imgTitle": "Imagem 14",
+        "src": "./midia/imgs/galeria/art14.jpg"
+    },
+    {
+        "imgTitle": "Imagem 15",
+        "src": "./midia/imgs/galeria/art15.jpg"
+    }
+]
